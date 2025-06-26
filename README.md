@@ -14,7 +14,7 @@
 
 <ol>
   <li>Clone este repositório:</li>
-  <pre><code>git clone https://github.com/SEU_USUARIO/ProjetoAPI.git</code></pre>
+  <pre><code>git clone https://github.com/kaue,bruno,jaislan/ProjetoAPI.git</code></pre>
   
   <li>Instale as dependências:</li>
   <pre><code>npm install</code></pre>
